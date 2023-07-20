@@ -1,0 +1,12 @@
+{
+  "name": "perf-monitor",
+  "version": "1.0.0",
+  "description": "基于 [Lighthouse](https://github.com/GoogleChrome/lighthouse) 实现巡检系统",
+  "main": "lighthouserc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

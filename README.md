@@ -335,6 +335,7 @@ runAudit('https://example.com');
 
 参考资料
 
+- 推荐 https://web.dev/lighthouse-ci/
 - https://github.com/GoogleChrome/lighthouse
   - https://github.com/GoogleChrome/lighthouse#using-the-node-cli
 - https://github.com/GoogleChrome/lighthouse-ci
