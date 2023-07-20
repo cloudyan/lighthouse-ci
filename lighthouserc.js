@@ -7,6 +7,7 @@ module.exports = {
       // collect options here
       url: ['https://www.baidu.com/'],
       numberOfRuns: 5,
+      // staticDistDir: './public',
       // startServerCommand: 'rails server -e production',
     },
     assert: {
