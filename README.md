@@ -342,11 +342,11 @@ runAudit('https://example.com');
 参考资料
 
 - 推荐 https://web.dev/lighthouse-ci/
-- https://github.com/GoogleChrome/lighthouse
-  - https://github.com/GoogleChrome/lighthouse#using-the-node-cli
-- https://github.com/GoogleChrome/lighthouse-ci
+- 推荐 https://github.com/GoogleChrome/lighthouse-ci
   - `npm i -g @lhci/cli` -> `lhci autorun`
   - https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/configuration.md#commands
+- https://github.com/GoogleChrome/lighthouse
+  - https://github.com/GoogleChrome/lighthouse#using-the-node-cli
 - https://github.com/marketplace/actions/lighthouse-ci-action
   - https://github.com/treosh/lighthouse-ci-action
   - https://github.com/hchiam/learning-lighthouse-ci
