@@ -11,6 +11,7 @@ module.exports = {
     },
     assert: {
       // assert options here
+      preset: 'lighthouse:recommended',
       assertions: {
         'categories:performance': ['warn', {minScore: 1}],
         'categories:accessibility': ['error', {minScore: 1}]
